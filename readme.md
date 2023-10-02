@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifftwa&label=Profile%20views&color=0e75b6&style=flat" alt="alifftwa" /> </p>
 
-🔭 learning experience in **Dicoding, Infinite Learning, Alterra Academy, Build With Angga**
+🔭 learning experience in ** Dicoding, Infinite Learning, Alterra Academy, Build With Angga **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
