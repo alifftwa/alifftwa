@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alif Fatwa Ramadhani</h1>
-<h4>i am junior web developer and have some basic skills in making designs, I am also active as a content creator on social media. I actively participate in various projects that are useful and support a better future.</h4>
+<p>i am junior web developer and have some basic skills in making designs, I am also active as a content creator on social media. I actively participate in various projects that are useful and support a better future.</p>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/945a19afcbabd459c4cf9a7da04dbb642118aba46c471c8b0483da2099d0089d/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f483766355a476a764b5842614c624269674f2f67697068792e676966">
 
