@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alif Fatwa Ramadhani</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/945a19afcbabd459c4cf9a7da04dbb642118aba46c471c8b0483da2099d0089d/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f483766355a476a764b5842614c624269674f2f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifftwa&label=Profile%20views&color=0e75b6&style=flat" alt="alifftwa" /> </p>
 
