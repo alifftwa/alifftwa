@@ -21,6 +21,5 @@
 <p dir="auto">
   <a href="https://github.com/alifftwa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifftwa&show_icons=true&locale=en&layout=compact" alt="alifftwa" style="max-width: 100%;">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alifftwa&" alt="alifftwa" style="max-width: 100%;">
   </a>
 </p>
