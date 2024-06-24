@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alif Fatwa Ramadhani</h1>
-<p> I am a Bachelor of Informatics at Muhammadiyah University in Malang who is very enthusiastic about digital developments, especially website development. With around 1 year of experience as a front-end developer, I have solid skills in team communication and collaboration. I am always eager to contribute actively, provide significant benefits, and shape my future career and personal development in the field of Information Technology, especially website development. I am committed to continuing to learn, innovate and contribute to the digital world to achieve the best results.</p>
+<p> I am a Bachelor of Informatics at Muhammadiyah University in Malang who is very enthusiastic about digital developments, especially website development. I have solid skills in team communication and collaboration. I am always eager to contribute actively, provide significant benefits, and shape my future career and personal development in the field of Information Technology, especially website development. I am committed to continuing to learn, innovate and contribute to the digital world to achieve the best results.</p>
 
 🔭 learning experience in **Dicoding, Infinite Learning, Alterra Academy, Build With Angga**
 
